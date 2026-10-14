@@ -1,0 +1,23 @@
+collegeId,name,district,type,tier,website,admissionRoute,officialSource,academicYear,lastUpdated,isSample
+COL-01,College of Engineering Guindy (Anna University),Chennai,Government,Tier 1,https://ceg.annauniv.edu,TNEA,Anna University / DOTE,2024-2025,2026-03,true
+COL-02,Madras Institute of Technology (MIT Chromepet),Chennai,Government,Tier 1,https://mitindia.edu,TNEA,Anna University / DOTE,2024-2025,2026-03,true
+COL-03,PSG College of Technology,Coimbatore,Government-Aided,Tier 1,https://psgtech.edu,TNEA,TNEA / DOTE,2024-2025,2026-03,true
+COL-04,Coimbatore Institute of Technology (CIT),Coimbatore,Government-Aided,Tier 1,https://cit.edu.in,TNEA,TNEA / DOTE,2024-2025,2026-03,true
+COL-05,Government College of Technology (GCT Coimbatore),Coimbatore,Government,Tier 1,https://gct.ac.in,TNEA,DOTE Tamil Nadu,2024-2025,2026-03,true
+COL-06,Thiagarajar College of Engineering,Madurai,Government-Aided,Tier 1,https://tce.edu,TNEA,TNEA / DOTE,2024-2025,2026-03,true
+COL-07,National Institute of Technology Tiruchirappalli (NITT),Tiruchirappalli,University,Tier 1,https://nitt.edu,JEE (central counselling),JoSAA / CSAB,2024-2025,2026-03,true
+COL-08,Madras Medical College (MMC),Chennai,Government,Tier 1,https://mmc.ac.in,NEET counselling,DME Tamil Nadu / MCC,2024-2025,2026-03,true
+COL-09,Stanley Medical College,Chennai,Government,Tier 1,https://stanleymedicalcollege.in,NEET counselling,DME Tamil Nadu,2024-2025,2026-03,true
+COL-10,Coimbatore Medical College,Coimbatore,Government,Tier 1,https://cmccbe.ac.in,NEET counselling,DME Tamil Nadu,2024-2025,2026-03,true
+COL-11,Madurai Medical College,Madurai,Government,Tier 1,https://mdmc.ac.in,NEET counselling,DME Tamil Nadu,2024-2025,2026-03,true
+COL-12,Government College of Engineering Salem,Salem,Government,Tier 2,https://gcesalem.edu.in,TNEA,DOTE Tamil Nadu,2024-2025,2026-03,true
+COL-13,Government College of Engineering Tirunelveli,Tirunelveli,Government,Tier 2,https://gcetly.ac.in,TNEA,DOTE Tamil Nadu,2024-2025,2026-03,true
+COL-14,Sri Sivasubramaniya Nadar College of Engineering (SSN),Chengalpattu,Private,Tier 1,https://ssn.edu.in,TNEA,Anna University / DOTE,2024-2025,2026-03,true
+COL-15,Kumaraguru College of Technology (KCT),Coimbatore,Private,Tier 2,https://kct.ac.in,TNEA,Anna University / DOTE,2024-2025,2026-03,true
+COL-16,Kongu Engineering College,Erode,Private,Tier 2,https://kongu.ac.in,TNEA,Anna University / DOTE,2024-2025,2026-03,true
+COL-17,Loyola College,Chennai,Government-Aided,Tier 1,https://loyolacollege.edu,Direct / merit,University of Madras,2024-2025,2026-03,true
+COL-18,Madras Christian College (MCC),Chennai,Government-Aided,Tier 1,https://mcc.edu.in,Direct / merit,University of Madras,2024-2025,2026-03,true
+COL-19,PSG College of Arts and Science,Coimbatore,Government-Aided,Tier 1,https://psgcas.ac.in,Direct / merit,Bharathiar University,2024-2025,2026-03,true
+COL-20,Tamil Nadu National Law University (TNNLU),Tiruchirappalli,University,Tier 1,https://tnnlu.ac.in,University entrance,CLAT / BCI,2024-2025,2026-03,true
+COL-21,Alagappa Chettiar Government College of Engineering,Sivaganga,Government,Tier 2,https://accetedu.in,TNEA,DOTE Tamil Nadu,2024-2025,2026-03,true
+COL-22,Thanthai Periyar Government Institute of Technology,Vellore,Government,Tier 2,https://tpgit.edu.in,TNEA,DOTE Tamil Nadu,2024-2025,2026-03,true

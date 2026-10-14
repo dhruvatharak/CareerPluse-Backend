@@ -1,0 +1,21 @@
+collegeId,name,district,type,courses,website,academicYear,source,lastUpdated,isSample
+POL-01,Central Polytechnic College Taramani,Chennai,Government,DIP-01|DIP-02|DIP-03|DIP-04|DIP-05|DIP-09,https://cptch.edu.in,2024-2025,DOTE Tamil Nadu,2026-03,true
+POL-02,Government Polytechnic College Coimbatore,Coimbatore,Government,DIP-01|DIP-02|DIP-03|DIP-04|DIP-05|DIP-06,https://gpc-cbe.org,2024-2025,DOTE Tamil Nadu,2026-03,true
+POL-03,PSG Polytechnic College Peelamedu,Coimbatore,Government-Aided,DIP-01|DIP-02|DIP-03|DIP-04|DIP-05|DIP-09|DIP-10,https://psgpolytech.ac.in,2024-2025,DOTE Tamil Nadu,2026-03,true
+POL-04,Tamil Nadu Government Polytechnic College Madurai,Madurai,Government,DIP-01|DIP-02|DIP-03|DIP-04|DIP-05|DIP-06,https://tngp-madurai.edu.in,2024-2025,DOTE Tamil Nadu,2026-03,true
+POL-05,Government Polytechnic College Tiruchirappalli,Tiruchirappalli,Government,DIP-01|DIP-02|DIP-03|DIP-04|DIP-05|DIP-11,https://gptctrichy.edu.in,2024-2025,DOTE Tamil Nadu,2026-03,true
+POL-06,Thiagarajar Polytechnic College Salem,Salem,Government-Aided,DIP-01|DIP-02|DIP-03|DIP-04|DIP-05|DIP-10|DIP-17,https://tpt.edu.in,2024-2025,DOTE Tamil Nadu,2026-03,true
+POL-07,Government Polytechnic College Tirunelveli,Tirunelveli,Government,DIP-01|DIP-02|DIP-03|DIP-04|DIP-05|DIP-15,https://gpctvl.edu.in,2024-2025,DOTE Tamil Nadu,2026-03,true
+POL-08,Muthayammal Polytechnic College Rasipuram,Namakkal,Self-Financing,DIP-01|DIP-02|DIP-03|DIP-04|DIP-05|DIP-06,https://muthayammal.org,2024-2025,DOTE Tamil Nadu,2026-03,true
+POL-09,Government Polytechnic College Erode,Erode,Government,DIP-01|DIP-02|DIP-03|DIP-05|DIP-10|DIP-16,https://gpcerode.edu.in,2024-2025,DOTE Tamil Nadu,2026-03,true
+POL-10,Thanthai Periyar EVR Government Polytechnic Vellore,Vellore,Government,DIP-01|DIP-02|DIP-03|DIP-04|DIP-05|DIP-07,https://tpevrgp-vellore.in,2024-2025,DOTE Tamil Nadu,2026-03,true
+POL-11,Government Polytechnic College Thanjavur,Thanjavur,Government,DIP-01|DIP-02|DIP-03|DIP-05|DIP-12,https://gpcthanjavur.edu.in,2024-2025,DOTE Tamil Nadu,2026-03,true
+POL-12,Institute of Chemical Technology Tharamani,Chennai,Government,DIP-11|DIP-03|DIP-05,https://ict-chennai.edu.in,2024-2025,DOTE Tamil Nadu,2026-03,true
+POL-13,Institute of Printing Technology Taramani,Chennai,Government,DIP-13|DIP-01|DIP-05,https://ipt-chennai.gov.in,2024-2025,DOTE Tamil Nadu,2026-03,true
+POL-14,Dr. Dharmambal Government Polytechnic College for Women,Chennai,Government,DIP-04|DIP-05|DIP-07|DIP-16|DIP-18,https://drdgpw.edu.in,2024-2025,DOTE Tamil Nadu,2026-03,true
+POL-15,Government Polytechnic College Nagercoil,Kanyakumari,Government,DIP-01|DIP-02|DIP-03|DIP-04|DIP-05|DIP-15,https://gpcnagercoil.edu.in,2024-2025,DOTE Tamil Nadu,2026-03,true
+POL-16,Government Polytechnic College Tuticorin,Thoothukudi,Government,DIP-01|DIP-02|DIP-03|DIP-11|DIP-15,https://gpctuticorin.edu.in,2024-2025,DOTE Tamil Nadu,2026-03,true
+POL-17,Government Polytechnic College Dindigul,Dindigul,Government,DIP-01|DIP-02|DIP-03|DIP-04|DIP-05,https://gpcdgl.edu.in,2024-2025,DOTE Tamil Nadu,2026-03,true
+POL-18,Government Polytechnic College Krishnagiri,Krishnagiri,Government,DIP-01|DIP-02|DIP-03|DIP-04|DIP-06|DIP-09,https://gpckrishnagiri.edu.in,2024-2025,DOTE Tamil Nadu,2026-03,true
+POL-19,Valivalam Desikar Polytechnic College Nagapattinam,Nagapattinam,Government-Aided,DIP-01|DIP-02|DIP-03|DIP-04|DIP-05|DIP-15,https://vdptc.edu.in,2024-2025,DOTE Tamil Nadu,2026-03,true
+POL-20,Government College of Pharmacy (Diploma Wing) Madurai,Madurai,Government,DIP-08,https://gcpmadurai.tn.gov.in,2024-2025,DME Tamil Nadu,2026-03,true

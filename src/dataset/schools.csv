@@ -1,0 +1,29 @@
+schoolId,name,district,type,passPercentage12th,centumCount,academicYear,source,lastUpdated,isSample
+SCH-01,Government Model Higher Secondary School,Chennai,Government,98.6,42,2023-2024,DGE Tamil Nadu,2024-05-15,true
+SCH-02,Presidency Girls Higher Secondary School,Chennai,Government,97.2,28,2023-2024,DGE Tamil Nadu,2024-05-15,true
+SCH-03,St. Joseph Higher Secondary School,Tiruchirappalli,Government Aided,99.4,68,2023-2024,School Portal,2024-05-15,true
+SCH-04,Government Higher Secondary School Singanallur,Coimbatore,Government,96.8,18,2023-2024,DGE Tamil Nadu,2024-05-15,true
+SCH-05,Mani Higher Secondary School,Coimbatore,Government Aided,99.1,54,2023-2024,School Portal,2024-05-15,true
+SCH-06,Government Model Higher Secondary School Othakadai,Madurai,Government,97.5,31,2023-2024,DGE Tamil Nadu,2024-05-15,true
+SCH-07,Sourashtra Boys Higher Secondary School,Madurai,Government Aided,98.2,36,2023-2024,School Portal,2024-05-15,true
+SCH-08,Government Girls Higher Secondary School Gugai,Salem,Government,96.4,22,2023-2024,DGE Tamil Nadu,2024-05-15,true
+SCH-09,Gokulatha Hindu Vidyalaya,Salem,Private/Matric,99.8,84,2023-2024,School Portal,2024-05-15,true
+SCH-10,Government Higher Secondary School Perundurai,Erode,Government,97.8,25,2023-2024,DGE Tamil Nadu,2024-05-15,true
+SCH-11,Vellalar Girls Higher Secondary School,Erode,Government Aided,99.6,76,2023-2024,School Portal,2024-05-15,true
+SCH-12,Government Model Higher Secondary School Mohanur,Namakkal,Government,98.9,45,2023-2024,DGE Tamil Nadu,2024-05-15,true
+SCH-13,Green Park Girls Higher Secondary School,Namakkal,Private/Matric,100.0,128,2023-2024,School Portal,2024-05-15,true
+SCH-14,Kshatriya Girls Higher Secondary School,Virudhunagar,Government Aided,99.5,62,2023-2024,DGE Tamil Nadu,2024-05-15,true
+SCH-15,Government Higher Secondary School Sattur,Virudhunagar,Government,96.1,14,2023-2024,DGE Tamil Nadu,2024-05-15,true
+SCH-16,Schaffter Higher Secondary School,Tirunelveli,Government Aided,98.8,40,2023-2024,School Portal,2024-05-15,true
+SCH-17,Government Model Higher Secondary School Palayamkottai,Tirunelveli,Government,97.1,29,2023-2024,DGE Tamil Nadu,2024-05-15,true
+SCH-18,Scott Christian Higher Secondary School,Kanyakumari,Government Aided,99.2,58,2023-2024,School Portal,2024-05-15,true
+SCH-19,Government Higher Secondary School Nagercoil,Kanyakumari,Government,96.7,19,2023-2024,DGE Tamil Nadu,2024-05-15,true
+SCH-20,Government Higher Secondary School Pennagaram,Dharmapuri,Government,95.4,12,2023-2024,DGE Tamil Nadu,2024-05-15,true
+SCH-21,St. Antony Higher Secondary School,Thanjavur,Government Aided,98.4,38,2023-2024,School Portal,2024-05-15,true
+SCH-22,Government Model Girls Higher Secondary School,Thanjavur,Government,96.9,24,2023-2024,DGE Tamil Nadu,2024-05-15,true
+SCH-23,Government Muslim Higher Secondary School,Vellore,Government,95.8,16,2023-2024,DGE Tamil Nadu,2024-05-15,true
+SCH-24,Voorhees Higher Secondary School,Vellore,Government Aided,98.1,33,2023-2024,School Portal,2024-05-15,true
+SCH-25,Government Higher Secondary School Coonoor,Nilgiris,Government,96.0,15,2023-2024,DGE Tamil Nadu,2024-05-15,true
+SCH-26,Breeks Memorial Higher Secondary School,Nilgiris,Government Aided,98.7,35,2023-2024,School Portal,2024-05-15,true
+SCH-27,Government Model Higher Secondary School,Dindigul,Government,96.5,21,2023-2024,DGE Tamil Nadu,2024-05-15,true
+SCH-28,St. Marys Higher Secondary School,Dindigul,Government Aided,98.3,37,2023-2024,School Portal,2024-05-15,true
